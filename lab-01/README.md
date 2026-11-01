@@ -44,11 +44,17 @@ To set up a Node.js project and create a web server using the built-in HTTP modu
 
 ## Screenshots
 
-- [Home Page](screenshots/home.png.png)
-- [About Page](screenshots/about.png.png)
-- [Time Page](screenshots/time.png.png)
-- [404 Page](screenshots/not-found.png.png)
+### Home Page
+![Home Page](screenshots/Screenshot%202026-11-01%20232014.png)
 
+### About Page
+![About Page](screenshots/Screenshot%202026-11-01%20232022.png)
+
+### Time Page
+![Time Page](screenshots/Screenshot%202026-11-01%20232027.png)
+
+### 404 Page
+![404 Page](screenshots/Screenshot%202026-11-01%20232036.png)
 ## Deployment
 Not deployed yet. Deployment link will be added after hosting the application.
 
