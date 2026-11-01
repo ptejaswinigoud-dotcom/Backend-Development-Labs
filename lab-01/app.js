@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 app.get('/about', (req, res) => {
     res.status(200).json({
         name: 'Tejaswini',
-        course: 'B.Tech'
+        course: 'CSE DS'
     });
 });
 
@@ -27,6 +27,6 @@ app.use((req, res) => {
 });
 
 // Start server
-app.listen(3001, () => {
-    console.log('Express server running on port 3001');
+app.listen(3000, () => {
+    console.log('Express server running on port 3000');
 });
