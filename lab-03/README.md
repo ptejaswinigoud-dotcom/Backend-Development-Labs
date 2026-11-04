@@ -3,8 +3,8 @@
 ## Student Details
 
 - **Name:** Tejaswini
-- **Registration Number:** [Enter your registration number]
-- **Section:** [Enter your section]
+- **Registration Number:** 252U1R3071
+- **Section:** CSE DATA SCIENCE
 - **Course:** Backend Development Fundamentals
 
 ## 1. Introduction
